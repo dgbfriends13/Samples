@@ -25,7 +25,7 @@ namespace Samples.Controllers
                 {
                     dc.Students.Add(student);
                     dc.SaveChanges();
-                    message = "Registration successfully done.";
+                    message = "Registration successfully donedonadonedones.";
                     Status = true;
                 }
             }
